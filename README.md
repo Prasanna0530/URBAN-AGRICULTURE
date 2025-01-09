@@ -41,7 +41,7 @@ Urban agriculture has several significant impacts:
 
 ## 🌐 Find Me Online
 
-- [GitHub](https://prasanna0530.github.io/URBAN-AGRICULTURE/)
+- [GitHub](https://github.com/Prasanna0530/URBAN-AGRICULTURE)
 - [LINKEDIN](https://www.linkedin.com/in/prasanna-kadrolli-b475862a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
