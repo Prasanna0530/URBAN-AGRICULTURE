@@ -9,7 +9,7 @@ Here's a glimpse into my journey:
 
 ## 🛠 Projects
 
-### Pollution-Free City  
+### Environmental impact and sustainability 
 
 OVERVIEW:  
 
