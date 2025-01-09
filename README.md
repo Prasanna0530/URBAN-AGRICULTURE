@@ -1,3 +1,4 @@
+
 # portfolio.github.io
 ## Portfolio
 
@@ -9,7 +10,7 @@ Here's a glimpse into my journey:
 
 ## 🛠 Projects
 
-### Environmental impact and sustainability 
+### Pollution-Free City  
 
 OVERVIEW:  
 
@@ -37,6 +38,11 @@ Urban agriculture has several significant impacts:
 - Expertise in problem-solving through advanced DAA techniques.  
 - Experience with project development and team collaboration.  
 
+
+## 🌐 Find Me Online
+
+- [GitHub](https://github.com/aaditri07/portfolio.github.io)
+- [LinkedIn](https://www.linkedin.com/in/poorvi-angadi-618b52343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Portfolio Highlights
 
